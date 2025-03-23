@@ -25,12 +25,12 @@ To get started with the project, you have two options for using the model:
 1. **Prepare your data**: Make sure your data is properly preprocessed and formatted.
 2. **Train the Model**: Train the individual model from scratch using your data. This will involve setting up the architecture and running the training process.
 3. **Save the Model**: Once the training is complete, save the trained model to a directory for future use.
-4. **Load the Model**: When you're ready to use the model, load it from the saved directory for further evaluation or inference.
+4. **Load the Model**: When you are ready to use the model, load it from the saved directory for further evaluation or inference.
 
 #### Option 2: Use a Pretrained Model and Fine-Tune It
 1. **Access the Pretrained Models**: Navigate to the "Pretrained Models" folder in the project directory, where you will find models that have already been trained on a general dataset.
 2. **Fine-Tune the Model**: Adapt the pretrained model to your specific dataset by fine-tuning it. This will help the model better fit the characteristics of your data.
-3. **Run the Script**: Once you’ve fine-tuned the model, you can run the script to evaluate or make predictions using the Jupyter notebook (`.ipynb` file).
+3. **Run the Script**: Once you have fine-tuned the model, you can run the script to evaluate or make predictions using the Jupyter notebook (`.ipynb` file).
 
 ### Running the Script
 - After completing either of the two options above, you can run the Python script using the provided Jupyter notebook. This allows you to interact with the model, make predictions, or evaluate its performance on new data.
