@@ -17,10 +17,6 @@ Before running the signal detection code, make sure you have the following insta
   Install TensorFlow via pip by following the instructions on the [TensorFlow website](https://www.tensorflow.org/install).
 
 Additionally, make sure to install any other dependencies as mentioned in the project.
-
-## Getting Started
-
-Once you have installed all the necessary dependencies, you can proceed with running the code.
 ## Getting Started
 
 To get started with the project, you have two options for using the model:
