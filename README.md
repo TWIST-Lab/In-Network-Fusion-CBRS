@@ -1,5 +1,5 @@
 # In-Network Fusion for High Interference Signal Detection within CBRS Band
-
+This codebase facilitates the fusion of multiple signal modalities, enabling enhanced detection and classification in environments with interference from various signal sources.
 
 ## Cite
 
